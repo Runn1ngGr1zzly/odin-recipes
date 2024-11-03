@@ -1,1 +1,1 @@
-# odin-recipes
+This is the first project of The Odin Project. I will be creating a recipe website using basic HTML elements and absolute links to an external website. This external website will be used for referecning recipes.
