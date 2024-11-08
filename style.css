@@ -1,0 +1,20 @@
+* {
+    font-family: 'Papyrus', Lucida Handwriting, monospace;
+}
+
+body {
+    background-image: url(images/background.jpg);
+}
+
+.main-title {
+    text-align: center;
+}
+
+.main-list {
+    display: table;
+    margin: auto;
+}
+
+.lasagna-title {
+    text-align: center;
+}
