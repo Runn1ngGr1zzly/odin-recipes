@@ -6,15 +6,16 @@ body {
     background-image: url(images/background.jpg);
 }
 
-.main-title {
-    text-align: center;
-}
-
-.main-list {
+.recipe-list, .ingredients-list {
     display: table;
     margin: auto;
 }
 
-.lasagna-title {
+
+.recipe-image, .recipe-description, .recipe-title, .ingredients-title {
+    text-align: center;
+}
+
+.steps {
     text-align: center;
 }
